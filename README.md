@@ -9,4 +9,4 @@ Latihan Visualisasi dan Prediksi Dataset Menggunakan Library Python
 - Numpy
 - DLL
 
-(lang)[(https://img.shields.io/badge/lang-python-blue)]
+![lang](https://img.shields.io/badge/lang-python-blue)
